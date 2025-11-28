@@ -3,7 +3,7 @@ For:
 
 Of Ash and Steel v1.04
 
-I use these macros to bypass the lockpicking minigame. Note that I am playing on hardest difficulty, so they might work for other difficulties! In my game, these hit with a 100% success chance, even with minimum dexterity (10) and without the lockpicking perk.
+I use these macros to bypass the lockpicking minigame. Note that I am playing on hardest difficulty, so they might work for other difficulties! In my game, these hit with a 100% success chance, even with minimum dexterity (10) and without the lockpicking perk. Tested in the city of Greyshaft.
 
 Usage:
 
